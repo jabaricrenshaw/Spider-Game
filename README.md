@@ -4,15 +4,15 @@ A game made in Java using CodenameOne
 # Starting the Game
 1. Run the game by executing the A3Prj.jar JAR file with this command:
 
-Mac/Linux:
+Mac/Linux:<br>
 java -classpath JavaSE.jar:dist/A3Prj.jar com.codename1.impl.javase.Simulator com.mycompany.a3
-Windows:
+Windows:<br>
 java -classpath JavaSE.jar;dist\A3Prj.jar com.codename1.impl.javase.Simulator com.mycompany.a3
 
-2. Once the game window appears, from the top toolbar navigate to:
+2. Once the game window appears, from the top toolbar navigate to:<br>
 Skins -> More..., the find and download the Ipad III skin.
 
-3. Then, from the top toolbar navigate to:
+3. Then, from the top toolbar navigate to:<br>
 Simulator -> Uncheck single window mode.
 
 # Playing the Game
