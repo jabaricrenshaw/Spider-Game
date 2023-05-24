@@ -1,0 +1,8 @@
+[1112/223450.197:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: open context failed"}
+[1112/223450.197:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":12}
+[1112/223450.678:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: open context failed"}
+[1112/223450.678:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":12}
+[1112/223450.713:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: open context failed"}
+[1112/223450.713:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":12}
+[1112/223450.735:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: open context failed"}
+[1112/223450.735:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":12}
