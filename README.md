@@ -14,7 +14,7 @@ Skins -> More..., the find and download the Ipad III skin.<br>
 <br>
 3. Then, from the top toolbar navigate to:<br>
 Simulator -> Uncheck single window mode.<br>
-<br>
+
 # Playing the Game
 Icons<br>
 1. Your Player object in the game window appears as a pink circle. You control the movement of the Player.
