@@ -3,10 +3,9 @@ A game made in Java using CodenameOne
 
 # Starting the Game
 1. Run the game by executing the A3Prj.jar JAR file with this command:
-<br>
-<br>Mac/Linux:<br>
-java -classpath JavaSE.jar:dist/A3Prj.jar com.codename1.impl.javase.Simulator com.mycompany.a3
-<br>Windows:<br>
+Mac/Linux:<br>
+java -classpath JavaSE.jar:dist/A3Prj.jar com.codename1.impl.javase.Simulator com.mycompany.a3<br>
+Windows:<br>
 java -classpath JavaSE.jar;dist\A3Prj.jar com.codename1.impl.javase.Simulator com.mycompany.a3
 
 2. Once the game window appears, from the top toolbar navigate to:<br>
