@@ -3,20 +3,20 @@ A game made in Java using CodenameOne
 
 # Starting the Game
 1. Run the game by executing the A3Prj.jar JAR file with this command:
-
-Mac/Linux:<br>
+<br>
+<br>Mac/Linux:<br>
 java -classpath JavaSE.jar:dist/A3Prj.jar com.codename1.impl.javase.Simulator com.mycompany.a3
-Windows:<br>
+<br>Windows:<br>
 java -classpath JavaSE.jar;dist\A3Prj.jar com.codename1.impl.javase.Simulator com.mycompany.a3
 
 2. Once the game window appears, from the top toolbar navigate to:<br>
-Skins -> More..., the find and download the Ipad III skin.
-
+Skins -> More..., the find and download the Ipad III skin.<br>
+<br>
 3. Then, from the top toolbar navigate to:<br>
-Simulator -> Uncheck single window mode.
-
+Simulator -> Uncheck single window mode.<br>
+<br>
 # Playing the Game
-Icons
+Icons<br>
 1. Your Player object in the game window appears as a pink circle. You control the movement of the Player.
 2. Flags are the yellow triangles. Flags are ordered by the number in the center of each.
 3. Food Stations are the blue boxes. The food level at each FoodStation is identified by the number in the center of each
@@ -30,14 +30,14 @@ Buttons
 5. The "Pause/Play" button pauses the game or resumes if it is "Paused".
 
 # Help Section
-Why doesn't the game continue upon starting?
+Why doesn't the game continue upon starting?<br>
 The game may be experiencing a bug where the object do not move unless you click the Pause/Play button. Try clicking the button repeatedly until you get a message or the objects begin to move.
 
 Available Keybindings for commands:
-a -> Accelerate (Increases the speed of the Ant until maximum speed.)
-b -> Brake (Reduces the speed of the Ant until minimum speed.)
-l -> Turn Left
-r -> Turn Right
+a -> Accelerate (Increases the speed of the Ant until maximum speed.)<br>
+b -> Brake (Reduces the speed of the Ant until minimum speed.)<br>
+l -> Turn Left<br>
+r -> Turn Right<br>
 
 How do I use the "Position" button?
 1. Make sure the game is "Paused" by clicking the "Pause" button.
